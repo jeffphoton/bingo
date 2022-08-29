@@ -4231,41 +4231,6 @@ var bingoList = {
             "weight": 0.35000000000000003
         }, {
             "difficulty": 14,
-            "id": "farore-s-wind",
-            "jp": "フロルの風",
-            "name": "Farore's Wind",
-            "rowtypes": {
-                "bottle": 0,
-                "gclw": 1,
-                "hookshot": 0.5,
-                "ms": 2.25
-            },
-            "skill": 0,
-            "subtypes": {
-                "aganon": 0.25,
-                "botw": -1,
-                "childchu": -2.5,
-                "chuczl": 2,
-                "compass": 2,
-                "gtunic": 0.25,
-                "hearts3": 2.5,
-                "incfairy": 100,
-                "map": 2,
-                "skulls": 0.5
-            },
-            "time": 10.5,
-            "types": {
-                "bothzl": -3.5,
-                "czl": 3.5,
-                "dmc": 1,
-                "fountain": 2,
-                "magic": 1.75,
-                "poachers": 3.5,
-                "selfsynergy": 0
-            },
-            "weight": -0.15000000000000002
-        }, {
-            "difficulty": 14,
             "id": "saria-s-song",
             "jp": "サリアの歌",
             "name": "Saria's Song",
@@ -5530,50 +5495,6 @@ var bingoList = {
                 "water": 3
             },
             "weight": 0.65
-        }, {
-            "difficulty": 21,
-            "id": "two-fairy-spells",
-            "jp": "魔法のアイテム2つ",
-            "name": "Two Fairy Spells",
-            "rowtypes": {
-                "bottle": 100,
-                "gclw": 1,
-                "hookshot": 1,
-                "ms": 0
-            },
-            "skill": 0.5,
-            "subtypes": {
-                "aganon": 0.25,
-                "bosskey": 3,
-                "bottleslot": 4,
-                "botw": -1,
-                "child2": 5.5,
-                "childchu": -2.5,
-                "chuczl": 2,
-                "compass": 4,
-                "gtunic": 0.25,
-                "hearts3": 2.25,
-                "hearts4": 0.5,
-                "hovers": 0.25,
-                "map": 4,
-                "skulls": 0.75
-            },
-            "time": 15.75,
-            "types": {
-                "bothzl": -3.5,
-                "czl": 7.75,
-                "dmc": 0.75,
-                "dmcchild": 0.75,
-                "endon": -0.25,
-                "fortress": 2.5,
-                "fountain": 2,
-                "incfairy": 100,
-                "magic": 1.75,
-                "poachers": 3.5,
-                "selfsynergy": 0,
-                "spirit": 2
-            },
-            "weight": 0.6499999999999999
         }, {
             "difficulty": 21,
             "id": "all-4-market-area-skulltulas",
