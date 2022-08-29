@@ -2820,34 +2820,6 @@ var bingoList = {
             "weight": 0.15000000000000002
         }, {
             "difficulty": 10,
-            "id": "keaton-mask",
-            "jp": "キータンのお面",
-            "name": "Keaton Mask",
-            "rowtypes": {
-                "bottle": 0,
-                "gclw": 0,
-                "hookshot": 0,
-                "ms": 0
-            },
-            "skill": 0,
-            "subtypes": {
-                "cganon": 1.75,
-                "hearts3": 3,
-                "hearts4": 1,
-                "marketgs": 2,
-                "songs4": 1.75
-            },
-            "time": 7.75,
-            "types": {
-                "childchu": 0,
-                "chuczl": 2,
-                "czl": 5.75,
-                "incctrade": 100,
-                "selfsynergy": 0
-            },
-            "weight": -0.7500000000000001
-        }, {
-            "difficulty": 10,
             "id": "gerudo-s-card",
             "jp": "ゲルドの会員証",
             "name": "Gerudo's Card",
@@ -3432,7 +3404,7 @@ var bingoList = {
             },
             "weight": 0.85
         }, {
-            "difficulty": 12,
+            "difficulty": 1,
             "id": "double-magic",
             "jp": "魔力2倍",
             "name": "Double Magic",
@@ -3464,7 +3436,7 @@ var bingoList = {
             },
             "weight": -0.25
         }, {
-            "difficulty": 12,
+            "difficulty": 3,
             "id": "double-defense",
             "jp": "防御力2倍",
             "name": "Double Defense",
@@ -4230,7 +4202,7 @@ var bingoList = {
             },
             "weight": 0.35000000000000003
         }, {
-            "difficulty": 14,
+            "difficulty": 3,
             "id": "saria-s-song",
             "jp": "サリアの歌",
             "name": "Saria's Song",
@@ -4740,7 +4712,7 @@ var bingoList = {
             },
             "weight": -1.2500000000000002
         }, {
-            "difficulty": 17,
+            "difficulty": 1,
             "id": "din-s-fire",
             "jp": "ディンの炎",
             "name": "Din's Fire",
@@ -4776,7 +4748,7 @@ var bingoList = {
             },
             "weight": -1.8000000000000007
         }, {
-            "difficulty": 17,
+            "difficulty": 6,
             "id": "goron-bracelet",
             "jp": "ゴロンの腕輪",
             "name": "Goron Bracelet",
