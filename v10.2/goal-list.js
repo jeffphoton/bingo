@@ -3312,7 +3312,7 @@ var bingoList = {
             "difficulty": 11,
             "id": "bronze-gauntlets",
             "jp": "銅のグローブ",
-            "name": "Bronze Gauntlets",
+            "name": "Black Gauntlets (Glitched Gold Gauntlets)",
             "rowtypes": {
                 "bottle": 100,
                 "gclw": 0,
@@ -5392,7 +5392,7 @@ var bingoList = {
             },
             "weight": 1.7500000000000002
         }, {
-            "difficulty": 20,
+            "difficulty": 9,
             "id": "green-gauntlets",
             "jp": "緑のグローブ",
             "name": "Green Gauntlets",
