@@ -5033,7 +5033,7 @@ var bingoList = {
             },
             "weight": -0.45000000000000023
         }, {
-            "difficulty": 18,
+            "difficulty": 25,
             "id": "free-all-9-gorons-in-fire-temple",
             "jp": "炎の神殿で9人のゴロンを全員救う",
             "name": "Free all 9 Gorons in Fire Temple",
@@ -5468,7 +5468,7 @@ var bingoList = {
             },
             "weight": 0.65
         }, {
-            "difficulty": 21,
+            "difficulty": 8,
             "id": "all-4-market-area-skulltulas",
             "jp": "城下町エリアの黄金のスタルチュラ4匹",
             "name": "All 4 Market area Skulltulas",
