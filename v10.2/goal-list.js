@@ -3456,7 +3456,7 @@ var bingoList = {
                 "hearts3": 1.5,
                 "skulls": 0.25
             },
-            "time": 9.25,
+            "time": 3.25,
             "types": {
                 "bothzl": -3.5,
                 "czl": 3.5,
@@ -4223,7 +4223,7 @@ var bingoList = {
                 "songs4": 3,
                 "songs5": -3
             },
-            "time": 10.5,
+            "time": 2.5,
             "types": {
                 "childchu": 0,
                 "childreset": 1.25,
@@ -4736,7 +4736,7 @@ var bingoList = {
                 "skulls": 0.5,
                 "songs4": 1.75
             },
-            "time": 12.75,
+            "time": 1.25,
             "types": {
                 "childchu": 0,
                 "chuczl": 2,
@@ -4771,7 +4771,7 @@ var bingoList = {
                 "songs4": 3,
                 "strength": 100
             },
-            "time": 13,
+            "time": 5,
             "types": {
                 "childchu": 0,
                 "childreset": 1.25,
@@ -5413,7 +5413,7 @@ var bingoList = {
                 "skulls": 0.5,
                 "songs4": 3
             },
-            "time": 15,
+            "time": 7,
             "types": {
                 "childchu": 0,
                 "childreset": 1.25,
@@ -5491,7 +5491,7 @@ var bingoList = {
                 "songs4": 1.5,
                 "songs5": 2
             },
-            "time": 16,
+            "time": 6,
             "types": {
                 "child2": 5,
                 "dins": 1,
@@ -7854,7 +7854,7 @@ var bingoList = {
                 "songs": 1,
                 "wallet": 0.5
             },
-            "time": 12.75,
+            "time": 1.75,
             "types": {
                 "bottle": 1.75,
                 "dmc": 1,
