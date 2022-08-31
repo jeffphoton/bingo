@@ -1501,7 +1501,7 @@ var bingoList = {
                 "endon": -2,
                 "incgohma": 100,
                 "selfsynergy": 0,
-                "spiritdh"
+                "spiritdh": 0
             },
             "weight": -0.15000000000000002
         }, {
@@ -5139,6 +5139,7 @@ var bingoList = {
                 "map": 3,
                 "poachers": 0.25,
                 "skulls": 2.5,
+                "spiritdh": -1.5,
                 "songs5": 0.75
             },
             "time": 13.75,
@@ -5146,6 +5147,7 @@ var bingoList = {
                 "fortress": 2.5,
                 "hovers": 2.5,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 5
             },
             "weight": 1.5500000000000007
