@@ -977,12 +977,14 @@ var bingoList = {
                 "czl": 3,
                 "hearts4": 1,
                 "hovers": 0.5,
-                "map": 2
+                "map": 2,
+                "sgww": 2.5
             },
             "time": 3.5,
             "types": {
                 "deku": 2.5,
-                "selfsynergy": 0
+                "selfsynergy": 0,
+                "spiritdh": 0
             },
             "weight": -0.05
         }, {
@@ -1003,12 +1005,14 @@ var bingoList = {
                 "hearts4": 1,
                 "hovers": 0.5,
                 "map": 3,
+                "sgww": 3,
                 "skulls": 0.5
             },
             "time": 3.75,
             "types": {
                 "deku": 3,
-                "selfsynergy": 0
+                "selfsynergy": 0,
+                "spiritdh": 0
             },
             "weight": -0.1
         }, {
@@ -1208,13 +1212,15 @@ var bingoList = {
             "skill": 0,
             "subtypes": {
                 "child2": 1,
+                "sgww": 1,
                 "skulls": 1.5
             },
             "time": 4.5,
             "types": {
                 "childreset": 1.25,
                 "deku": 0.25,
-                "selfsynergy": 0
+                "selfsynergy": 0,
+                "spiritdh": 0
             },
             "weight": -0.5
         }, {
@@ -1454,6 +1460,7 @@ var bingoList = {
                 "hearts4": 1,
                 "hovers": 0.5,
                 "map": 2,
+                "sgww": 4,
                 "skulls": 0.25
             },
             "time": 4.25,
@@ -1461,7 +1468,8 @@ var bingoList = {
                 "deku": 5,
                 "endon": -0.25,
                 "incgohma": 100,
-                "selfsynergy": 0
+                "selfsynergy": 0,
+                "spiritdh": 0
             },
             "weight": -0.10000000000000002
         }, {
@@ -1484,6 +1492,7 @@ var bingoList = {
                 "hearts4": 1,
                 "hovers": 0.5,
                 "map": 2,
+                "sgww": 4.5,
                 "skulls": 0.25
             },
             "time": 4.75,
@@ -1491,7 +1500,8 @@ var bingoList = {
                 "deku": 5,
                 "endon": -2,
                 "incgohma": 100,
-                "selfsynergy": 0
+                "selfsynergy": 0,
+                "spiritdh"
             },
             "weight": -0.15000000000000002
         }, {
@@ -2370,13 +2380,15 @@ var bingoList = {
                 "map": 2,
                 "poachers": -0.25,
                 "skulls": 0.75,
-                "songs5": 2.75
+                "songs5": 2.75,
+                "spiritdh": -2
             },
             "time": 6,
             "types": {
                 "endon": -0.25,
                 "fortress": 2.5,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 2.5
             },
             "weight": 0.5
@@ -2975,6 +2987,7 @@ var bingoList = {
                 "hovers": 1,
                 "map": 2,
                 "poachers": 0.25,
+                "spiritdh": -2,
                 "skulls": 0.75
             },
             "time": 7.25,
@@ -3617,6 +3630,7 @@ var bingoList = {
                 "fortress": 2.5,
                 "incspboss": 100,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 8
             },
             "weight": 0.8000000000000002
@@ -3707,6 +3721,7 @@ var bingoList = {
                 "hearts4": 0.25,
                 "map": 1.5,
                 "skulls": 2,
+                "spiritdh": -3,
                 "songs10": -5,
                 "songs5": 3
             },
@@ -3714,6 +3729,7 @@ var bingoList = {
             "types": {
                 "fortress": 2.5,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 2.5
             },
             "weight": 0.30000000000000004
@@ -3998,6 +4014,7 @@ var bingoList = {
                 "incshield": 100,
                 "incspboss": 100,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 3.5
             },
             "weight": 1.8000000000000007
@@ -4031,6 +4048,7 @@ var bingoList = {
                 "fortress": 3,
                 "hovers": 2.5,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 3.25,
                 "strength": 100
             },
@@ -4127,6 +4145,7 @@ var bingoList = {
                 "hovers": 2.5,
                 "incshield": 100,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 3.5
             },
             "weight": 1.800000000000001
@@ -5226,6 +5245,7 @@ var bingoList = {
                 "map": 6,
                 "poachers": 1,
                 "skulls": 4.5,
+                "spiritdh": -2,
                 "songs5": 4.5
             },
             "time": 14.25,
@@ -5238,6 +5258,7 @@ var bingoList = {
                 "gtg": 1,
                 "hovers": 2.5,
                 "selfsynergy": -3,
+                "sgww": 0,
                 "shadow": 2,
                 "spirit": 3,
                 "water": 2
@@ -5450,6 +5471,7 @@ var bingoList = {
                 "incminuet": 100,
                 "map": 6,
                 "poachers": 1,
+                "spiritdh": -2,
                 "skulls": 4.5,
                 "songs5": 4.5
             },
@@ -5462,6 +5484,7 @@ var bingoList = {
                 "gtg": 1,
                 "hovers": 2.5,
                 "selfsynergy": -3,
+                "sgww": 0,
                 "shadow": 2,
                 "spirit": 3,
                 "water": 3
@@ -5806,6 +5829,7 @@ var bingoList = {
                 "incspboss": 100,
                 "legitlacs": 100,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 8
             },
             "weight": 0.05000000000000002
@@ -5925,6 +5949,7 @@ var bingoList = {
                 "fortress": 2.5,
                 "lightarrow": 8,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 5
             },
             "weight": 1.3877787807814457e-17
@@ -5960,6 +5985,7 @@ var bingoList = {
                 "incspboss": 100,
                 "legitlacs": 100,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 8
             },
             "weight": -0.05000000000000002
@@ -6004,7 +6030,9 @@ var bingoList = {
             "childchu": "min 1",
             "endon": "max -1",
             "ganonchu": "min 1",
-            "legitlacs": "min -2"
+            "legitlacs": "min -2",
+            "sgww": "max 1",
+            "spiritdh": "min 1"
         },
         "averageStandardDeviation": 56.68038125446168
     },
