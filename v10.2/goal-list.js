@@ -5138,6 +5138,7 @@ var bingoList = {
                 "hearts4": 0.5,
                 "map": 3,
                 "poachers": 0.25,
+                "spiritdh": -1.5,
                 "skulls": 2.5,
                 "songs5": 0.75
             },
@@ -5146,6 +5147,7 @@ var bingoList = {
                 "fortress": 2.5,
                 "hovers": 2.5,
                 "selfsynergy": 0,
+                "sgww": 0,
                 "spirit": 5
             },
             "weight": 1.5500000000000007
