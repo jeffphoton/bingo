@@ -5138,8 +5138,8 @@ var bingoList = {
                 "hearts4": 0.5,
                 "map": 3,
                 "poachers": 0.25,
-                "spiritdh": -1.5,
                 "skulls": 2.5,
+                "spiritdh": -1.5,
                 "songs5": 0.75
             },
             "time": 13.75,
