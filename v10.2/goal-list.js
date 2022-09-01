@@ -3218,7 +3218,7 @@ var bingoList = {
                 "poachers": 1,
                 "skulls": 0.25
             },
-            "time": 8.25,
+            "time": 12.25,
             "types": {
                 "firearrow": 8,
                 "fortress": 3,
@@ -4035,7 +4035,7 @@ var bingoList = {
                 "skulls": 0.75,
                 "songs5": 0.75
             },
-            "time": 10,
+            "time": 5.75,
             "types": {
                 "fortress": 2.5,
                 "gtg": 1.5,
@@ -4994,7 +4994,7 @@ var bingoList = {
                 "skulls": 0.5,
                 "songs5": 1.25
             },
-            "time": 13,
+            "time": 6.75,
             "types": {
                 "aganon": 3,
                 "dmc": 1,
@@ -5204,7 +5204,7 @@ var bingoList = {
                 "skulls": 1,
                 "songs5": 0.75
             },
-            "time": 13.75,
+            "time": 9.75,
             "types": {
                 "aganon": 3,
                 "endon": -0.5,
@@ -5243,7 +5243,7 @@ var bingoList = {
                 "skulls": 0.5,
                 "songs5": 1.25
             },
-            "time": 13.75,
+            "time": 7.5,
             "types": {
                 "aganon": 3,
                 "dmc": 1,
