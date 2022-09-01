@@ -1478,7 +1478,7 @@ var bingoList = {
             "jp": "デクの樹様の中クリア",
             "name": "Beat the Deku Tree",
             "rowtypes": {
-                "bottle": 100,
+                "bottle": 0,
                 "gclw": 0,
                 "hookshot": 0,
                 "ms": 0
@@ -1502,6 +1502,36 @@ var bingoList = {
                 "incgohma": 100,
                 "selfsynergy": 0,
                 "spiritdh": 0
+            },
+            "weight": -0.15000000000000002
+        }, {
+            "difficulty": 6,
+            "id": "nocturne-of-shadow",
+            "jp": "???",
+            "name": "Nocturne of Shadow",
+            "rowtypes": {
+                "bottle": 0,
+                "gclw": 0,
+                "hookshot": 0,
+                "ms": 0
+            },
+            "skill": 0.25,
+            "subtypes": {
+                "compass": 2.5,
+                "hearts3": 3,
+                "hearts4": 1,
+                "hovers": 0.5,
+                "map": 2,
+                "skulls": 0.25
+            },
+            "time": 6,
+            "types": {
+                "deku": 5,
+                "dc": 3,
+                "endon": -0.5,
+                "incgohma": 100,
+                "incdodongo": 100,
+                "selfsynergy": 0
             },
             "weight": -0.15000000000000002
         }, {
