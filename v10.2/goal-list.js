@@ -5974,7 +5974,7 @@ var bingoList = {
                 "skulls": 1,
                 "songs5": 2
             },
-            "time": 18.25,
+            "time": 9.25,
             "types": {
                 "dmc": 1,
                 "fire": 7,
