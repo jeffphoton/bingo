@@ -2026,12 +2026,13 @@ var bingoList = {
             },
             "skill": 0.25,
             "subtypes": {
-                "jabu": 0.5,
                 "skulls": 4
             },
-            "time": 6.25,
+            "time": 10.25,
             "types": {
                 "childchu": 0,
+                "incboomerang": 0,
+                "jabu": 3.75,
                 "selfsynergy": 0
             },
             "weight": -0.65
@@ -2521,7 +2522,6 @@ var bingoList = {
                 "childreset": 1.25,
                 "froghp": 1,
                 "hearts3": 0.25,
-                "jabu": 0.5,
                 "skulls": 2
             },
             "time": 5.5,
@@ -2530,6 +2530,7 @@ var bingoList = {
                 "fountain": 2,
                 "incboomerang": 100,
                 "inczoraskull": 100,
+                "jabu": 3.75,
                 "selfsynergy": 0
             },
             "weight": -0.5499999999999999
@@ -2551,7 +2552,6 @@ var bingoList = {
                 "hearts3": 0.5,
                 "hearts4": 0.25,
                 "hovers": 0.25,
-                "jabu": 0.5,
                 "map": 1.5,
                 "skulls": 2
             },
@@ -2560,6 +2560,7 @@ var bingoList = {
                 "childchu": 0,
                 "fortress": 2,
                 "incboomerang": 100,
+                "jabu": 3.75,
                 "selfsynergy": 0
             },
             "weight": -0.5000000000000001
@@ -3722,7 +3723,6 @@ var bingoList = {
                 "compass": 2,
                 "froghp": 1,
                 "hearts3": 1,
-                "jabu": 0.5,
                 "map": 2,
                 "skulls": 4
             },
@@ -3732,6 +3732,7 @@ var bingoList = {
                 "fountain": 2,
                 "incboomerang": 100,
                 "inczoraskull": 100,
+                "jabu": 3.75,
                 "selfsynergy": 0
             },
             "weight": -3.100000000000002
@@ -5556,12 +5557,11 @@ var bingoList = {
                 "songs4": 1.5,
                 "songs5": 2
             },
-            "time": 10,
+            "time": 6,
             "types": {
                 "dins": 1,
                 "endon": 0,
                 "hovers": 2.5,
-                "incboomerang": 100,
                 "marketgs": 4,
                 "selfsynergy": 0
             },
@@ -7258,6 +7258,7 @@ var bingoList = {
                 "field": 0.75,
                 "incboomerang": 100,
                 "incranchskulls": 100,
+                "jabu": 3.75,
                 "lonlon": 1.5,
                 "selfsynergy": 0
             }
